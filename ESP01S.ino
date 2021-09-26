@@ -5,7 +5,7 @@
 #include <ESP8266WiFi.h>
 #include <Blinker.h>                       //官方库
 
-char auth[] = "eecf2fa0f178";
+char auth[] = ".......";
 char ssid[] = "AX3600";
 char pswd[] = "shen0000.";
 bool wsState;
